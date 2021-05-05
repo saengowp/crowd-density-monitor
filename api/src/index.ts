@@ -1,4 +1,6 @@
 import express, { Request, Response } from 'express'
+import './mqtt'
+
 const app = express()
 const port = 3000
 
@@ -7,5 +9,5 @@ app.get('/', (req: Request, res: Response) => {
 })
 
 app.listen(port, () => {
-  console.log(`App running on http://localhost:${port}`)
+  console.log(`APP - App running on http://localhost:${port}`)
 })

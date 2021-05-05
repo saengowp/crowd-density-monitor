@@ -2,9 +2,8 @@
   "name": "api",
   "version": "1.0.0",
   "license": "MIT",
-  "type": "module",
   "scripts": {
-    "start": "ts-node-dev src/index.ts",
+    "start": "ts-node-dev --watch src/**/*.ts --rs --cls src/index.ts",
     "start:prod": "node dist/index.js",
     "build": "tsc"
   },

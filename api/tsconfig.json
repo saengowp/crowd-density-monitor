@@ -9,7 +9,6 @@
     "outDir": "dist",
     "baseUrl": ".",
     "removeComments": true,
-    "incremental": true,
     "paths": {
       "*": ["node_modules/*"]
     }
