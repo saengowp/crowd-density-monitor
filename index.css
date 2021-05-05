@@ -1,0 +1,49 @@
+.header {
+  margin-top: 48px;
+  margin-bottom: 8px;
+  font-size: 24px;
+  color: #0a376e;
+  font-weight: bold;
+}
+#NumberCount {
+  font-size: 28px;
+  font-weight: bold;
+  color: #2c2c2c;
+}
+#NumberCountDesc {
+  font-size: 14px;
+  color: #6e6e6e;
+}
+@font-face {
+  font-family: SFProDisplay;
+  src: url("./Fonts/FontsFree-Net-SFProDisplay-Regular.ttf");
+}
+@font-face {
+  font-family: SFProDisplay;
+  src: url("./Fonts/FontsFree-Net-SFProDisplay-Bold.ttf");
+  font-weight: bold;
+}
+.center {
+  text-align: center;
+}
+Body {
+  font-family: SFProDisplay;
+}
+.box {
+  width: 343px;
+  height: 219px;
+  margin: 8px auto 8px auto;
+  border-radius: 4px;
+  border: 1px solid #e5e5e5;
+}
+.box-header {
+  font-size: 14px;
+  margin: 8px;
+  font-family: SFProDisplay;
+  color: #6e6e6e;
+}
+/*
+class .
+id #
+tag no prefix
+*/
