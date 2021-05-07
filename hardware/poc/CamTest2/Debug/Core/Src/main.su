@@ -1,0 +1,15 @@
+main.c:479:6:log	16	static
+main.c:484:9:camReadReg	40	static
+main.c:502:5:camInit	232	static
+main.c:547:6:camBuffErr	16	static
+main.c:556:6:HAL_TIM_IC_CaptureCallback	16	static
+main.c:573:5:main	248	static,ignoring_inline_asm
+main.c:789:6:SystemClock_Config	88	static
+main.c:834:13:MX_I2C1_Init	8	static
+main.c:868:13:MX_TIM1_Init	56	static
+main.c:930:13:MX_TIM2_Init	56	static
+main.c:989:13:MX_TIM3_Init	48	static
+main.c:1038:13:MX_USART2_UART_Init	8	static
+main.c:1069:13:MX_DMA_Init	16	static
+main.c:1087:13:MX_GPIO_Init	48	static
+main.c:1143:6:Error_Handler	4	static,ignoring_inline_asm
