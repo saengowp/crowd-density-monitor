@@ -1,3 +1,4 @@
+// TODO: We might not need Express if we don't use REST API
 import express, { Request, Response } from 'express'
 import './mqtt'
 

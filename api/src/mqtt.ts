@@ -26,7 +26,7 @@ client.on('connect', (connack) => {
 })
 
 client.on('message', (topic, message) => {
-  console.log(`Recieved ${message.toString()}`)
+  console.log(`Received ${message.toString()}`)
 })
 
 export { client }
