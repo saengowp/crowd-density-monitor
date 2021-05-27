@@ -23,6 +23,8 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
+#include "cwsys.h"
+
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -89,6 +91,12 @@ int main(void)
   MX_GPIO_Init();
   MX_USART2_UART_Init();
   /* USER CODE BEGIN 2 */
+
+  // Configure and run CrowdWatch
+  struct cwsys_init_params cwsys_param = {
+		  .infoSerial = &huart2
+  };
+  cwsys(cwsys_param);
 
   /* USER CODE END 2 */
 
