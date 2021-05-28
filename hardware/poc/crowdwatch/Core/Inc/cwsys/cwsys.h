@@ -11,17 +11,21 @@
 #define INC_CWSYS_H_
 
 #include "stm32f4xx_hal.h"
+#include "camera.h"
+
+#define CWSYS_OK 0
 
 /**
  * Saved parameter. Modified by cwsys() only
  */
-static struct cwsys_init_params cwparam;
+extern struct cwsys_init_params cwparam;
 
 /**
  * Parameter for initializing CWSYS
  */
 struct cwsys_init_params {
 	UART_HandleTypeDef *infoSerial; //UART to log info
+	struct cameraparams cameraParams;
 };
 
 /**
