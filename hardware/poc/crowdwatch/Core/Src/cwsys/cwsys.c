@@ -45,6 +45,10 @@ int cwsys_loop() {
 	camera_capture();
 	while (camBuffer.state != CAPTURED);
 	info("Captured %d lines, first 2 line is %d %d, clk = %d", camBuffer.hsyncSz, camBuffer.hsync[0], camBuffer.hsync[1], cwparam.cameraParams.tim1Sync->Instance->CNT);
+	if (camBuffer.hsyncSz < 144) {
+		info("[CAM] Bad frame, Check connection");
+		return CWSYS_OK;
+	}
 	info("Writing out img buf, TRIGTRIGTRIG");
 	for (int i = 0; i < 144; i++) {
 		HAL_UART_Transmit(cwparam.infoSerial, camBuffer.img + camBuffer.hsync[i], 348, 10000);
