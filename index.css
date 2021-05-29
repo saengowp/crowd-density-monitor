@@ -44,6 +44,7 @@ body {
   color: #6e6e6e;
 }
 .flex-container {
+  flex-direction: column;
   display: flex;
   justify-content: space-between;
 }
