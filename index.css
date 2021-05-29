@@ -26,7 +26,7 @@
 .center {
   text-align: center;
 }
-Body {
+body {
   font-family: SFProDisplay;
 }
 .box {
@@ -40,7 +40,46 @@ Body {
   font-size: 14px;
   margin: 8px;
   font-family: SFProDisplay;
+  font-weight: bold;
   color: #6e6e6e;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+.dot {
+  height: 12px;
+  width: 12px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: bottom;
+}
+.graph-desc {
+  font-size: 10px;
+}
+#blue {
+  background-color: #2d9cdb;
+}
+#light-blue {
+  background-color: #56ccf2;
+}
+.label-gap {
+  margin: 2px;
+}
+.footer {
+  position: fixed;
+  padding: 8px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+#chart {
+  margin: 1em auto;
+  width: 800px;
 }
 /*
 class .

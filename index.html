@@ -20,8 +20,23 @@
         </div>
         <img src="./Images/temp.jpg" width="327px" height="166px" style="margin: 8px;">
     </div>
-
+    <div class="box">
+      <div class="box-header flex-container">
+        <text>Record</text>
+        <div class="graph-desc">
+          <div class="label-gap"><span class="dot" id="blue"></span><text> Max</text></div>
+          <div class="label-gap"><span class="dot" id="light-blue"></span><text> Avg</text></div>
+        </div>
+      </div>
+      <div id="chart"></div>
+    </div>
+    <div class="box">
+      <div class="box-header">Current People Count</div>
+    </div>
+    <!-- <div class="footer">Copyright @2020 Cloud Density Monitor.</br>Design By Poravee & Uttanon</div> -->
   </body>
 
   <script src="index.js"></script>
+  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="barchart.js"></script>
 </html>
