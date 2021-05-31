@@ -4,10 +4,10 @@ google.charts.setOnLoadCallback(drawChart);
 function drawChart() {
   var data = google.visualization.arrayToDataTable([
     ["Year", "Count"],
-    ["1 May", 1000],
-    ["2 May", 1170],
-    ["3 May", 660],
-    ["4 May", 1030],
+    ["15:00", 28],
+    ["16:00", 32],
+    ["17:00", 40],
+    ["Now", 18],
   ]);
 
   var options = {

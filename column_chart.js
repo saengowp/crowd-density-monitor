@@ -4,13 +4,13 @@ google.charts.setOnLoadCallback(drawChart);
 function drawChart() {
   var data = google.visualization.arrayToDataTable([
     ["", "Max", "Avg"],
-    ["MON", 1000, 400],
-    ["TUE", 1170, 460],
-    ["WED", 660, 1120],
-    ["THU", 1030, 540],
-    ["FRI", 1030, 540],
-    ["SAT", 1030, 540],
-    ["SUN", 1030, 540],
+    ["MON", 27, 20],
+    ["TUE", 22, 17],
+    ["WED", 46, 34],
+    ["THU", 35, 28],
+    ["FRI", 50, 44],
+    ["SAT", 10, 4],
+    ["SUN", 40, 28],
   ]);
 
   var options = {
