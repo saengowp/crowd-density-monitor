@@ -26,6 +26,8 @@
  * TIM3 Should be TIM1 Slave tracking Buffer size, CH1 IC VSYNC, CH2 IC HSYNC
  * It should also detect both edge for unknown reason. Otherwise it seems to capture 2 frames
  * GPIOIdr lower byte should be sensor data pin 0-7
+ *
+ * Cam Reset = High, PWDN = Low
  */
 struct cameraparams
 {

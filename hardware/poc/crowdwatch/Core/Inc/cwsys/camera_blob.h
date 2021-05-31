@@ -164,6 +164,7 @@
 
 const uint8_t ov7670_regsval[][2] ={
 		{0x12, 0x80}, // Register Reset, Must wait 1ms
+		{ 0x6B, 0x7A }, // PLL x4
 
 
 		//================BEGIN Magic=================
