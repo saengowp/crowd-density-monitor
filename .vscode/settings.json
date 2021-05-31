@@ -2,5 +2,7 @@
     "files.associations": {
         "vector": "cpp",
         "utility": "cpp"
-    }
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
 }
