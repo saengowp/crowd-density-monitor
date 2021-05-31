@@ -33,64 +33,10 @@
     <!-- <div class="footer">Copyright @2020 Cloud Density Monitor.</br>Design By Poravee & Uttanon</div> -->
   </body>
 
-  <script src="index.js"></script>
-  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
   <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-  <script type="text/javascript">
-    google.charts.load('current', {'packages':['bar']});
-    google.charts.setOnLoadCallback(drawChart);
-
-    function drawChart() {
-      var data = google.visualization.arrayToDataTable([
-        ['', 'Max', 'Avg'],
-        ['MON', 1000, 400],
-        ['TUE', 1170, 460],
-        ['WED', 660, 1120],
-        ['THU', 1030, 540],
-        ['FRI', 1030, 540],
-        ['SAT', 1030, 540],
-        ['SUN', 1030, 540]
-      ]);
-
-      var options = {
-        chart: {
-          // title: 'Company Performance',
-          // subtitle: 'Sales, Expenses, and Profit: 2014-2017',
-        },
-        hAxis : { 
-        textStyle : {
-            fontSize: 8 // or the number you want
-          }
-        }
-      };
-
-      var chart = new google.charts.Bar(document.getElementById('columnchart_material'));
-
-      chart.draw(data, google.charts.Bar.convertOptions(options));
-    }
-  </script>
-  <script type="text/javascript">
-    google.charts.load('current', {'packages':['corechart']});
-    google.charts.setOnLoadCallback(drawChart);
-
-    function drawChart() {
-      var data = google.visualization.arrayToDataTable([
-        ['Year', 'Count'],
-        ['1 May',  1000],
-        ['2 May',  1170],
-        ['3 May',  660],
-        ['4 May',  1030]
-      ]);
-
-      var options = {
-        //title: 'Company Performance',
-        curveType: 'function',
-        legend: { position: 'bottom' }
-      };
-
-      var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
-
-      chart.draw(data, options);
-    }
-  </script>
+  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script type="text/javascript" src="index.js"></script>
+  <script type="text/javascript" src="column_chart.js"></script>
+  <script type="text/javascript" src="line_chart.js"></script>
+  
 </html>
