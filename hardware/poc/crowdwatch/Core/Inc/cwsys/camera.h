@@ -56,7 +56,7 @@ struct camerabuffer {
 	enum {IDLE, CAPTURING, CAPTURED} state;
 };
 
-struct camerabuffer camBuffer;
+extern struct camerabuffer camBuffer;
 
 /**
  * Capture an image to camBuffer

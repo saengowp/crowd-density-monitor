@@ -10,6 +10,8 @@
 #include "cwsys/cwsys.h"
 #include "cwsys/camera_blob.h"
 
+struct camerabuffer camBuffer;
+
 void camsync_tim_oncapture(TIM_HandleTypeDef *tim);
 
 int camera_sccb_init();
