@@ -16,15 +16,19 @@
 }
 @font-face {
   font-family: SFProDisplay;
-  src: url("./Fonts/FontsFree-Net-SFProDisplay-Regular.ttf");
+  src: url('./Fonts/FontsFree-Net-SFProDisplay-Regular.ttf');
 }
 @font-face {
   font-family: SFProDisplay;
-  src: url("./Fonts/FontsFree-Net-SFProDisplay-Bold.ttf");
+  src: url('./Fonts/FontsFree-Net-SFProDisplay-Bold.ttf');
   font-weight: bold;
 }
 .center {
   text-align: center;
+}
+.centerblock {
+  display: block;
+  margin: 20px auto;
 }
 body {
   font-family: SFProDisplay;
