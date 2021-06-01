@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    environment:
+      MQTT_HOST: mqtt://mqtt.netpie.io
+      MQTT_CLIENTID: 40a845fd-6f0d-4fdb-8ade-305b40b02ae8
+      MQTT_USERNAME: VPGoWcFX6Ai1zmDC92yxMKAcJdEvXfp5
+      MQTT_PASSWORD: _LRgoaRfsw6v_b6WR!SvU9-xxLmgdzPN
+      MQTT_PORT: 1883
+      GOOGLE_APPLICATION_CREDENTIALS: credentials.json
+      PORT: 3000
+    ports:
+      - '80:3000'
