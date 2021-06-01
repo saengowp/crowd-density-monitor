@@ -35,18 +35,18 @@ void handleSpiData(uint8_t *data, size_t len) {
   switch (data[0]) {
     case 0x01: {
     if (shouldSend != 0) {
-      Serial.println("Image start req NOT in correct state");  
+      Serial.println("x");  
       digitalWrite(busyPin, HIGH);    
       return;
     }
-    //Serial.println("Image start req");
+    Serial.println("Image start req");
     shouldSend = 1;
     break;
     }
 
     case 0x02:
     if (!shouldSend) {
-      Serial.println("Write outside buff");
+     // Serial.println("Write outside buff");
       digitalWrite(busyPin, HIGH);
       return;
     }
@@ -142,15 +142,31 @@ void loop() {
 
   int ttl = 50112;
 
+  uint8_t ordt = 0;
+  int sz = 0;
   while (ttl) {
     //Serial.println(brem);
-    Serial.println(ttl);
+    
     be = 0;
     digitalWrite(busyPin, HIGH);
     while (be == 0) delay(1);
-    int l = ttl < 31 ? ttl : 31;
-    client->write(buff, l);
-    ttl -= l;
+
+    if (buff[0] != (buff[1] ^ 0xAA))
+      continue;
+      
+    while (ordt != buff[0]) {
+      int l = ttl < 12 ? ttl : 12;
+      client->write(buff+2, l);
+      sz += l;
+      ordt++;
+      ttl -= l;
+    }
+    int l = ttl < 12 ? ttl : 12;
+      client->write(buff+2, l);
+      sz += l;
+      ordt++;
+      ttl -= l;
+    Serial.println(sz);
   }
 
   Serial.println("Write total=");
