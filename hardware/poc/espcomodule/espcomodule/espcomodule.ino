@@ -1,7 +1,8 @@
 #include <SPISlave.h>
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
-#include <ESP8266WebServer.h>
+#include <ESP8266HTTPClient.h>
+#include<StreamDev.h>
 
 #define __packed__ __attribute__ ((packed))
 
@@ -16,39 +17,64 @@ GPIO    NodeMCU   Name  |   Uno
 
      */
 
-ESP8266WebServer webServ(80);
+#define busyPin 5 /* GPIO5 (D1) for LED */
+
 
 #define C_BUFFWRITE 0x01
 
-#define BUFSIZE (174*144/2*2)
+ uint8_t buff[32];
+volatile int be = 0;
 
-uint8_t buff[BUFSIZE];
+volatile int shouldSend = 0;
 
-void retrieveData() {
-  webServ.send(200, "application/octet-stream", buff, BUFSIZE);
-}
-
-int v = 0;
+WiFiClient *client;
 
 void handleSpiData(uint8_t *data, size_t len) {
   //len = 32
+  digitalWrite(busyPin, LOW);
   switch (data[0]) {
-    case 0x01:
-    Serial.print("Image start");
-  }
+    case 0x01: {
+    if (shouldSend != 0) {
+      Serial.println("Image start req NOT in correct state");  
+      digitalWrite(busyPin, HIGH);    
+      return;
+    }
+    //Serial.println("Image start req");
+    shouldSend = 1;
+    break;
+    }
 
+    case 0x02:
+    if (!shouldSend) {
+      Serial.println("Write outside buff");
+      digitalWrite(busyPin, HIGH);
+      return;
+    }
+    //Serial.print(".");
+    memcpy(buff, data+1, 31);
+    be = 1;
+    break;
+
+    default:
+    Serial.println("Unrecognized CMD");
+    Serial.println(data[0]);
+    digitalWrite(busyPin, HIGH);
+  }
+/*
   Serial.println("Received data");
   for (int i = 0; i < len; i++) {
     Serial.print(data[i]);
     Serial.print(" ");
   }
   Serial.println("Set status ");
- Serial.print(v);
-  SPISlave.setStatus(v++);  
+  SPISlave.setStatus(0);  
+  */
 }
 
 void setup() {
   // put your setup code here, to run once
+  pinMode(busyPin, OUTPUT);
+  digitalWrite(busyPin, LOW);
   Serial.begin(115200);
   WiFi.mode(WIFI_STA);
   WiFi.begin("Home24.1_2.4G", "xxxxxxxxxxxxx");
@@ -66,12 +92,86 @@ void setup() {
   Serial.println("Connected");
   Serial.print("IP: ");
   Serial.println(WiFi.localIP());
-
-  webServ.on("/", HTTP_GET, retrieveData);
-  webServ.begin();
+   
+/*
+  HTTPClient http;
+  http.begin(*client, "http://73ae86b7fb60.ngrok.io/");
+  Serial.println("GET ...");
+  Serial.println(http.GET());
+  http.end();
+  */
 }
 
+#define URL "http://192.168.1.147:8080"
+
+/*
+void httpSend() {
+  Serial.println("Start connection");
+  HTTPClient http;
+  WiFiClient client;
+  http.begin(client, URL);
+  http.addHeader("Content-Type", "application/octet-stream");
+  if(!http.sendRequest("POST", &istream, 50112)) {
+    Serial.println("Send error");  
+  }
+  http.end();
+   Serial.println("Send DONE");  
+}*/
+
 void loop() {
-  // put your main code here, to run repeatedly:
-  webServ.handleClient();
+  client = new WiFiClient();
+  digitalWrite(busyPin, HIGH);
+  while (shouldSend == 0) delay(100);
+  //Make connection
+  Serial.println("HTTP Connecting");
+  if (!client->connect("192.168.1.147", 80)) {
+      Serial.println("HTTP Connection failed");  
+      shouldSend = 0;
+      delete client;
+      return;
+    }
+    
+    Serial.println("HTTP Connection established");  
+    const char *header = "POST / HTTP/1.1\r\nHost: 35.223.209.219\r\nConnection: close\r\nContent-Length: 50112\r\nContent-Type: application/octet-stream\r\n\r\n";
+    int l = client->write(header, strlen(header));
+    Serial.println(l);
+    Serial.println(" expect ");  
+    Serial.println(strlen(header));
+
+  Serial.println("Phase 2: Data trans");  
+
+  int ttl = 50112;
+
+  while (ttl) {
+    //Serial.println(brem);
+    Serial.println(ttl);
+    be = 0;
+    digitalWrite(busyPin, HIGH);
+    while (be == 0) delay(1);
+    int l = ttl < 31 ? ttl : 31;
+    client->write(buff, l);
+    ttl -= l;
+  }
+
+  Serial.println("Write total=");
+  Serial.print(ttl);
+    
+      Serial.println("HTTP Done");
+      Serial.println("Check header");
+
+      while (client->connected()) {
+        while (client->available() > 0) {
+        Serial.print((char) client->read());  
+        }
+        delay(0);
+      }
+      while (client->available() > 0) {
+        Serial.print((char) client->read());  
+      }
+      client->stop();
+      
+      digitalWrite(busyPin, LOW);
+    delete client;
+    shouldSend = 0;
+    Serial.println("OK");
 }

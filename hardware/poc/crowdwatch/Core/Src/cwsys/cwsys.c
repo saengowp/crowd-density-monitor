@@ -60,7 +60,10 @@ int cwsys_loop() {
 	}
 	*/
 
-	img_buffer_send();
+	for (int i = 0; i < IMG_BUFFER_SIZE; i++) {
+		camBuffer.img[i] = 'A' + (i%26);
+	}
+	img_buffer_send(camBuffer.img, IMG_BUFFER_SIZE);
 	HAL_Delay(1000);
 	return CWSYS_OK;
 }

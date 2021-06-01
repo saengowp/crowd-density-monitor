@@ -8,6 +8,6 @@
 #ifndef INC_CWSYS_ESPCOMODULE_H_
 #define INC_CWSYS_ESPCOMODULE_H_
 
-int img_buffer_send();
+int img_buffer_send(uint8_t *buff, int len);
 
 #endif /* INC_CWSYS_ESPCOMODULE_H_ */
