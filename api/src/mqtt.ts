@@ -15,18 +15,46 @@ const client = mqtt.connect(MQTT_HOST, {
   port: MQTT_PORT,
 })
 
+const footageTopic = '@msg/footage'
+const shadowUpdateTopic = '@shadow/data/update'
+const shadowUpdateResponseTopic = '@shadow/data/updated'
+
+export function updatePeopleCount(peopleCount: number): void {
+  client.publish(
+    shadowUpdateTopic,
+    JSON.stringify({
+      data: { peopleCount },
+    })
+  )
+}
+
+export async function messageHandler(topic: string, message: Buffer) {
+  if (topic === shadowUpdateResponseTopic) {
+    console.log('Updated shadow data')
+    console.log(JSON.parse(message.toString()))
+  }
+}
+
+client.on('error', (error) => {
+  console.error(error)
+})
+
 client.on('connect', (connack) => {
-  client.subscribe('@msg/footage', { qos: 1 }, (err, granted) => {
-    if (err) {
-      throw err
+  client.subscribe(
+    [footageTopic, shadowUpdateResponseTopic],
+    { qos: 2 },
+    (err, _) => {
+      if (err) {
+        throw err
+      }
+      console.log(
+        `MQTT - Subscribed to "${footageTopic}", "${shadowUpdateResponseTopic}"!`
+      )
     }
-    console.log('MQTT - Subscribed to "@msg/footage"!')
-  })
+  )
   console.log('MQTT - Connected to MQTT!')
 })
 
-client.on('message', (topic, message) => {
-  console.log(`Received ${message.toString()}`)
-})
+client.on('message', messageHandler)
 
 export { client }
