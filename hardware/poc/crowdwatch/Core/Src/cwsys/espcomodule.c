@@ -8,17 +8,20 @@
 #include "cwsys/cwsys.h"
 #include "stm32f4xx_hal.h"
 
-void spi_send_data(uint8_t com, uint8_t *buff, int l) // l < 32
+void spi_send_data(uint8_t com, uint8_t ordchk, uint8_t *buff, int l) // l <= 29
 {
 	SPI_HandleTypeDef *spi = cwparam.espSpi;
 
 	uint8_t data[32];
 	data[0] = com;
+	data[1] = ordchk;
+	data[2] = 0xAA ^ ordchk;
+
 
 	HAL_GPIO_WritePin(GPIOB, GPIO_PIN_4, GPIO_PIN_RESET);
 
-	for (int i = 0; i < l && i < 31; i++) {
-		data[1+i] = i < l ? buff[i] : 0;
+	for (int i = 0; i < l && i < 29; i++) {
+		data[3+i] = i < l ? buff[i] : 0;
 	}
 
 	const uint8_t writeH[] = {0x02, 0x00};
@@ -35,7 +38,14 @@ void spi_send_data(uint8_t com, uint8_t *buff, int l) // l < 32
 	HAL_GPIO_WritePin(GPIOB, GPIO_PIN_4, GPIO_PIN_SET);
 }
 
-int img_buffer_send(uint8_t *buff, int len)
+void img_buffer_send_init()
+{
+	while (HAL_GPIO_ReadPin(GPIOB, GPIO_PIN_5) == GPIO_PIN_RESET) HAL_Delay(1);
+		//if (HAL_GetTick() - t >= 10000) return -1;
+		spi_send_data(0x01, 0x00, NULL, 0);
+}
+
+int img_buffer_send(uint8_t *buff, int len, int *ord)
 {
 
 	uint32_t t = HAL_GetTick();
@@ -46,17 +56,18 @@ int img_buffer_send(uint8_t *buff, int len)
 	uint8_t *end = buff + len;
 	uint8_t *cur = buff;
 
-	while (HAL_GPIO_ReadPin(GPIOB, GPIO_PIN_5) == GPIO_PIN_RESET) HAL_Delay(1);
-	//if (HAL_GetTick() - t >= 10000) return -1;
-	spi_send_data(0x01, NULL, 0);
 
+
+	//uint8_t i = 0;
 	while (cur < end) {
 		while (HAL_GPIO_ReadPin(GPIOB, GPIO_PIN_5) == GPIO_PIN_RESET) HAL_Delay(1);
 		//if (HAL_GetTick() - t >= 10000) return -1;
-		int l = end - cur > 31 ? 31 : end - cur;
-		spi_send_data(0x02, cur, l);
+		int l = end - cur > 12 ? 12 : end - cur;
+			spi_send_data(0x02, *ord, cur, l);
+			HAL_Delay(10);
+		(*ord)++;
 		cur += l;
-		HAL_Delay(10);
+
 		//while (HAL_GPIO_ReadPin(GPIOB, GPIO_PIN_5) == GPIO_PIN_SET) HAL_Delay(1);
 	}
 	HAL_GPIO_WritePin(GPIOB, GPIO_PIN_4, GPIO_PIN_RESET);

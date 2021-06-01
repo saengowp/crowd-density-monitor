@@ -25,14 +25,14 @@ void cwsys(struct cwsys_init_params params)
 	int e;
 
 	info("[CWSYS] Crowd Watch System initializing.");
-	/*
+
 	e = camera_init();
 	if (e != CWSYS_OK) {
 		info("[CWSYS] Failed to init camera with error code = %d", e);
 		return;
 	}
 	info("[CWSYS] Crowd Watch System initialized. Starting loop.");
-*/
+
 	while (1) {
 		e = cwsys_loop();
 		if (e != CWSYS_OK) {
@@ -43,7 +43,7 @@ void cwsys(struct cwsys_init_params params)
 }
 
 int cwsys_loop() {
-/*
+
 	camera_capture();
 	while (camBuffer.state != CAPTURED);
 	info("Captured %d lines, first 2 line is %d %d, clk = %d", camBuffer.hsyncSz, camBuffer.hsync[0], camBuffer.hsync[1], cwparam.cameraParams.tim1Sync->Instance->CNT);
@@ -52,19 +52,26 @@ int cwsys_loop() {
 		return CWSYS_OK;
 	}
 
-	*/
-	/*
+
+
 	info("Writing out img buf, TRIGTRIGTRIG");
 	for (int i = 0; i < 144; i++) {
 		HAL_UART_Transmit(cwparam.infoSerial, camBuffer.img + camBuffer.hsync[i], 348, 10000);
 	}
-	*/
 
-	for (int i = 0; i < IMG_BUFFER_SIZE; i++) {
-		camBuffer.img[i] = 'A' + (i%26);
+	info("Sending to ESP");
+	img_buffer_send_init();
+	int ord = 0;
+	for (int i = 0; i < 144; i++) {
+		img_buffer_send(camBuffer.img + camBuffer.hsync[i], 348, &ord);
 	}
-	img_buffer_send(camBuffer.img, IMG_BUFFER_SIZE);
-	HAL_Delay(1000);
+
+	info("Sending to ESP complete");
+
+
+
+
+	//HAL_Delay(1000);
 	return CWSYS_OK;
 }
 
