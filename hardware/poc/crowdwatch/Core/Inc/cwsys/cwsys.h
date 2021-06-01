@@ -26,6 +26,7 @@ extern struct cwsys_init_params cwparam;
 struct cwsys_init_params {
 	UART_HandleTypeDef *infoSerial; //UART to log info
 	struct cameraparams cameraParams;
+	SPI_HandleTypeDef *espSpi;
 };
 
 /**
