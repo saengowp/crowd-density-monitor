@@ -10,6 +10,7 @@
 #include "cwsys/cwsys.h"
 #include "cwsys/camera.h"
 #include "cwsys/espcomodule.h"
+#include "cwsys/audio.h"
 
 #include <stdarg.h>
 #include <string.h>
@@ -31,6 +32,10 @@ void cwsys(struct cwsys_init_params params)
 		info("[CWSYS] Failed to init camera with error code = %d", e);
 		return;
 	}
+
+	audio_init();
+	audio_play();
+
 	info("[CWSYS] Crowd Watch System initialized. Starting loop.");
 
 	while (1) {
@@ -69,6 +74,14 @@ int cwsys_loop() {
 
 	info("[SPI] Sending to ESP complete");
 
+	info("[SPI] Retrieving people cnt");
+	uint32_t pplCnt = spi_get_status();
+	info("[SPI] people cnt = %d", pplCnt);
+
+	if (pplCnt) {
+		info("[Audio] Play warn");
+		audio_play();
+	}
 
 
 

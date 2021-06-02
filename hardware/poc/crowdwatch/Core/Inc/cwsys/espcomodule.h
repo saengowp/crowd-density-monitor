@@ -10,5 +10,6 @@
 
 void img_buffer_send_init();
 int img_buffer_send(uint8_t *buff, int len, int *ord);
+uint32_t spi_get_status();
 
 #endif /* INC_CWSYS_ESPCOMODULE_H_ */
