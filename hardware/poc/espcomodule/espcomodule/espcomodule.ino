@@ -124,15 +124,16 @@ void loop() {
   while (shouldSend == 0) delay(100);
   //Make connection
   Serial.println("HTTP Connecting");
-  if (!client->connect("192.168.1.147", 80)) {
+  if (!client->connect("35.223.209.219", 80)) {
       Serial.println("HTTP Connection failed");  
       shouldSend = 0;
       delete client;
       return;
     }
     
+    
     Serial.println("HTTP Connection established");  
-    const char *header = "POST / HTTP/1.1\r\nHost: 35.223.209.219\r\nConnection: close\r\nContent-Length: 50112\r\nContent-Type: application/octet-stream\r\n\r\n";
+    const char *header = "POST /footage HTTP/1.1\r\nHost: 35.223.209.219\r\nConnection: close\r\nContent-Length: 50112\r\nContent-Type: application/octet-stream\r\n\r\n";
     int l = client->write(header, strlen(header));
     Serial.println(l);
     Serial.println(" expect ");  
@@ -166,7 +167,12 @@ void loop() {
       sz += l;
       ordt++;
       ttl -= l;
-    Serial.println(sz);
+
+    if (sz % 500 == 0) {
+      Serial.println("Progress: ");
+      Serial.print(sz);
+      Serial.println("/50112");
+    }
   }
 
   Serial.println("Write total=");
@@ -177,12 +183,32 @@ void loop() {
 
       while (client->connected()) {
         while (client->available() > 0) {
-        Serial.print((char) client->read());  
+        String s = client->readStringUntil('\n');
+        int ppl;
+        
+        Serial.println(s);  
+        if (sscanf(s.c_str(), " {\"peopleCount\":%d", &ppl) == 1) {
+          Serial.println("Detect PCNT: ");
+          Serial.print(ppl);
+          SPISlave.setStatus(ppl);
         }
+        }
+        
         delay(0);
       }
+      Serial.println("Flush");
       while (client->available() > 0) {
-        Serial.print((char) client->read());  
+        while (client->available() > 0) {
+        String s = client->readStringUntil('\n');
+        int ppl;
+        
+        Serial.println(s);  
+        if (sscanf(s.c_str(), " {\"peopleCount\":%d", &ppl) == 1) {
+          Serial.println("Detect PCNT: ");
+          Serial.print(ppl);
+          SPISlave.setStatus(ppl);
+        }
+        } 
       }
       client->stop();
       
