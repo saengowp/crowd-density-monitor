@@ -27,6 +27,8 @@ struct cwsys_init_params {
 	UART_HandleTypeDef *infoSerial; //UART to log info
 	struct cameraparams cameraParams;
 	SPI_HandleTypeDef *espSpi;
+	TIM_HandleTypeDef *audioPwm;
+	TIM_HandleTypeDef *audioTimer;
 };
 
 /**

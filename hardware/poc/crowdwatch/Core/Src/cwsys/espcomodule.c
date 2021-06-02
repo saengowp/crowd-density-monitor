@@ -86,3 +86,24 @@ int img_buffer_send(uint8_t *buff, int len, int *ord)
 
 		*/
 }
+
+uint32_t spi_get_status()
+{
+	SPI_HandleTypeDef *spi = cwparam.espSpi;
+	uint8_t data[32];
+
+	info("Status read start");
+	HAL_GPIO_WritePin(GPIOB, GPIO_PIN_4, GPIO_PIN_SET);
+	HAL_Delay(10);
+	HAL_GPIO_WritePin(GPIOB, GPIO_PIN_4, GPIO_PIN_RESET);
+	data[0] = 0x04;
+	if (HAL_SPI_Transmit(spi, data, 1, 10000) != HAL_OK)
+		info("Read Transmission Failed");
+	HAL_SPI_Receive(spi, data, 4, 10000);
+	uint32_t *v = ((uint32_t*) data);
+	info("Got %u", *v);
+	HAL_GPIO_WritePin(GPIOB, GPIO_PIN_4, GPIO_PIN_SET);
+	HAL_Delay(10);
+	HAL_GPIO_WritePin(GPIOB, GPIO_PIN_4, GPIO_PIN_RESET);
+	return *v;
+}
