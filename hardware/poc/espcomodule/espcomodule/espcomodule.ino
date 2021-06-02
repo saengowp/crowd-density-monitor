@@ -161,7 +161,7 @@ void loop() {
       ordt++;
       ttl -= l;
     }
-    int l = ttl < 12 ? ttl : 12;
+    int l = ttl < 12 ? ttl : 12.;
       client->write(buff+2, l);
       sz += l;
       ordt++;

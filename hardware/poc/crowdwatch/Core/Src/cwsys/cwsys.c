@@ -59,14 +59,15 @@ int cwsys_loop() {
 		HAL_UART_Transmit(cwparam.infoSerial, camBuffer.img + camBuffer.hsync[i], 348, 10000);
 	}
 
-	info("Sending to ESP");
+	info("[SPI] Sending to ESP");
 	img_buffer_send_init();
 	int ord = 0;
 	for (int i = 0; i < 144; i++) {
+		info("[SPI] Line %d of %d", i, 144);
 		img_buffer_send(camBuffer.img + camBuffer.hsync[i], 348, &ord);
 	}
 
-	info("Sending to ESP complete");
+	info("[SPI] Sending to ESP complete");
 
 
 

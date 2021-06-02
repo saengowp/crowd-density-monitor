@@ -1,0 +1,49 @@
+POST / HTTP/1.1
+Host: 35.223.209.219
+Connection: close
+Content-Length: 50112
+Content-Type: application/octet-stream
+
+€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ       ÿÿ                                      @        ÿÿ                                                ­                                                     qP …P ýP Q Ñ ÁP ™P ÕP éP %Q I^ ]^ q^   @        ÿÿ                      àÆ                        ­                                               ¢îbœLæØô¹Û™'à÷üû  ÏÏ¶¦ 5'ÝÞ¾oœ„Zº!ë_‚d’Fî£  ¦ò½»÷ö…`æ1gÿ—(0ò(©Êñ™Ðf¾s—=	z9ÿ¿å  ãùÞïEAd÷úúJy‡CÁ“öë Ã‡Œó[7·€¸Ýa]çb4½¹ôw¶ƒ£$ëíÇ¿jT«!ý	ú»ÿÃ¦ÔBÃþae’ÁÓÍ§{! Šý5Ö	Q $»ÿþ‡¢ ‹û„¡ó	`5Gºœ_f@]|»z/ŠØ¹µê×Ñ FlûÉÖw"®\ÛôÞËx‹Š#û÷ <~]þ"Jˆ{fè‰‹Ÿ^zÚ¢‚…U¾~Þ € JžO^û†’ «×=üŠ@P	~ïþËÐè¤í—ì|àG@ÚÏü8JXQ‚62Jy·®šeñß?
+Ê
+VÛ¾ gS‘‘7ùûRñ¾õßJcz·þèQ ³|ú¿÷‚.ÄöÏö~¥6»ÎÖg`Q°¿½½ècxêïÛE  Ò^¬w ócÞ$Ï%Y‚gÛÿÜ/ƒ€¥6nþ»,`œ_Ûïs4M!}šSÖQZ`0û×4²Ì¤Àô1ÞHT	ìBÄW£#‘HþØt-8èt^—^û8ˆµÿîéÈt×)"(Œû—5ÿšÀ(üŸ]Û¡”A¿¿×÷„z€ÛöeÿrDM`ºPü•-l(Nó*'Bâ™n¢  ÛCÇö´/jr-Ï^x0°˜Î«èSˆA;ãVŠ1 ·ÊWÞ{ÛØïÃw×]I†ÈÃmß—, -H¯Ü¦eíâõ?0Ã1õŠJQþ÷ßÚõyÙTVìoó»AkÂ]uÃþÏw–çn«é)¿@æwŸŒB²ï¥
+”!è6uÇB ¾=§\`%BdòU¥ûìX$ëßO{‰§bxÎþ7Hn3jžž •$íŠ{í½€Õ'Öï?03ó2ëú7ëˆ~ >÷ÿn‚&«à]k¿_€0Î½©«î¬jçØü6 ª
+ôßlVBˆžŸÃ‰µA´",µ»üÙçl$„Úûgd¦J•ú–^¿!FÌ/ÿÿÃÃÎßFúoÍm˜~YÔˆù¦ëw¥ËÁ‰ôoñ	Ž"ŠûÏž8
+ö§]nA"¥ß¯Þ¿5FÀw}Ò0s¸¼¦þ¿‹)’ ZnFnsá4¹ªûô/8õûá{RÙ‚ºÒïµ°„Ô¾ê·™ L÷_þŸK&GÔ—ïC5 Àº|¼÷„1ìk½Îz1F°ÿýé&¹DØ×ÿë°‚S</×ßý!@Ôöeùe»¥e?~÷? S-sVûÆbø{N
+‚ÝkwKªí ÿ¿~¯ò9’È¸^»—zÕb)ìõÖïAOÂØwóÂq¹š³[%Bn×û_ÒH¡Ý¿ÿ£Œ4_à·øçE…öw*ÏIˆ
+Iä6L¿†ïó¥ðó[ö$ŽGoÎ©õF  Kíß]|B‰²"Ü©î×·cMOA¿°šÂÿ­?ûàFL×÷Ýa*°·kûõAÄåå³½´‚ÿÇ¼¶`B¥%;ºß–}²2ö®¼´$D@wÓ›Í’LÀB\¹ØÛVìþŽÎK Ð»¿—UtFý9?"trÖò®TyÄ€x.È©º”0B¶¼Ý¿ÿÀ"(ß}¾þ÷ñc¯ß•)œ§·8Ìd«02çÃýÄÈ‹GÂý1îïT ?L;œÊÛ¿ZA, 0oÏÿ‚´×?Ã½ðÛè¤À)ïî¾½AAÑ>qäíì–H¾†ÿÙ–Ÿì@F Ï|áýH Ò-‹z¡|  ‚RÖ] DxEÛ¾ïb	Ô‰=˜ÿôéäŠ*¿çpÁƒ£D{íË}ßd*¢²YzÅE ˜¿öÞóìBŸÜþ+mˆà±uäVT'€,[Ùqzí@¢¬­ë¾%Äö„ÜNýñ…8¥%ó‚²Lº%×[ÄL“@¶Ü÷V€³ó'¶ôWi €ÆŸçœqB~hÛ½±Ä 	$sY¼|eP@]Úp;ÿ.ß
+$hŽ»©[ŸT‰Šµyùu„!qÄÅë¼K@¼"ì9êÚd=«/ÛÚ]¤"rµh³Ù;düðí±q«,<ngþ¤thÌw- góeIÔUösx0£JÃîòWü&Hß»:ù‰êÊ»SÊ4
+¥û·rBHþº?‰LxylýûE°q@ùû4VQà«¼e×c­H2ûŸÚõGo+F[»»¿·
+à84_šç}ŒŠU þÊÓ€Ÿ«ó+LÑgŒm2ñƒ 1¹¾ËòH§%ªoèßž ‚Bÿõ»‘ ôô‹>ÖÕ@ Ÿ ô»¥14­xrôå«±•7ÍÍk¿…dg¿gm x¦ 5ëóÍ`)½ÞöBAæ½÷ÿúÍª®*	ø¾ÝA	'§¿¿Ùxñ6Y3š÷ÿ‡!6¦Ø¾¸8i-=æÝô§72õóf™q“) ²«ýß;û’Ñ¦ŠAãÞèâÉ8$dn«8¬Ã@-Îû›ƒ lìÍþþäÁyëèÿ”…ÀK`ìúÙ{ €	š~P* ]+¿¤UT@Óûºßn‘N»¼wÜ7W"Kã¾ÿF" Sz;33õþxÝ,Q	(þ×ÔïR¶‚”ß~Nï#ÈT1r÷ç¢"9ŽÄþoøÉ‚Aï’Jý, ¶w1O'?M«ÿ·B–X©{}]çëºß‘¿ÏFL(b–ÿ»ÿgàñíÒ@"}ßqô&Mˆ^{ßú€CIvþÉ¼äÙ¬]îúñ	·¿òÜßYdˆ™ˆ»ž ²Í½ï	Buf¾=P%hL¿ÿí[Q 1¼Í>Óƒ°#_xíz˜(
+|vú@)6;|Y{H³*-ËYD ïv§þ@¢pFEEÞôÉž•í×Í·p“s¬ÿo´‘H*Á—ßnb ŒÇ¾;ß( dÜ=É´,“¯Çµ“³„¿—£™rÎÈAÒþkv h ß¯ûÒaA†ùý·m 7†ÕžÑHj(7›ïß#(­ù/žè† …ö÷Ïƒ@U8ËÑêï…èÒPx´ß}DJ
+ß½«…X¡Té65_±ùöýwø¤Ezwë!! Ùºw¯Á¹"íãëY€wýŠc™÷À=Ðl~ë·éOªøª¶)ìh¿û€(H ]kk?5$Ûûüêdhù9ú 8“·ÑÚË¡!0ßÑ–   G{/¼AÓéƒí€B
+ÀoÓGœJg-—ÊÏ4xxOÞ”ç5˜ˆ!ßôñj•FI¿[Þç`NxßœM² €jªì?1!-ÖvëÞÈ›Ûo¯ÆRUú€o×ŽÃM÷ð·o«°Qš®ÿ·BÇŽmûƒ{ž@„PÕ>M?¦¢ƒNïÃî"‚ŽÅ_xù­,–ýôã½&x7Ï3þ7ókö É>õôüMÈR!Ùýç ¶ ;­,épL®ñ²žÓê‚×ïÅ‚ä´ÿ°ÅÅCßoô;  XÙ»³ÛþdÁ#ÔÞ¿¿M	BöÕoýˆ Š¿g]"¨PO ýš.c‚ Ë:ÛÁ 	àZ Ã°Dc¹ìãÒ–~%ü¿þÐâKÈ—±=»„r¯ýŸ¬dR 'ÏÿõòDŽ‰t¹ìÝbŒH¿ÖîM{© !Ê-·: Àä±o•Q:wßtÿ AR&¾v½,–	“
+ññ €ˆK}dXTÐ¯¹¾×ÿóÇ’ƒNô²HµÁ~)?æˆH[šé? RÂ6÷Ë÷Ÿ¦ÈË:«wµžn89R¯ïz!Š€~þzß=u(,OçÿÚŠTèARÎÞ*$!R×wï¾^(Í‘u‹;ÖyDLwí›„–A*N¿?qÀR¯WÖÆ"e(D}ÖiíŠXäÐÛ‡öí°Æõ¨Qçª„‚= ß½ï$"²ÛýþG_@µr¤Oñ|ú)?¸Mö¶ÿ±”Jšãîzb$(0íúu$¶â¡Ø6—ÿ¬²”íÒËJÀZ`žŸìûªŠ(@nÔøiáˆ¯¹}A@¥ë£žCZ½í#€ã'ÛþÝ¶„@,ÏÃ^‹È"†û©¾À¨Ö~÷~SHZŽrÿ¨«,H¼Õ-¢	öÙéüò…÷Õ%ø@ $·µ…y(ýZ¨èã;ïåÂ¡Ïb­NäA­úÃ¨u~˜®ƒ¨M¾ùš€MAFÖÿàøð1„N0" áv´ýb~Í÷¸¯}È” Êà®×be	-¿ï×=ç@âsèmµh
+ˆœOÜ×\pˆþ¼àè*•{Ý—Ýó*Uótïô €
+_÷ÃIb ®»?`| Žï?‹
+>Ë¯âv‚Ä›¿ØxðP8€õóø¿rS¦ŸíÝ¸eÿ¿ÝÌél $çýéˆAH™åk<ÀOR ·ß?=g&³;Ýó2 I¥»øøýIX øÝÝ3d,0·w»˜XÆ÷œ3P
+ÿoë>šK¡ ÿëa? "öfšo bØ®×ß!átŒ{ÎËH»¾Öt nÃ÷¼ÀXÛ÷y}Ýw6¿ãH#‰UþÝ7—P†œ1î±~…Tþ·›‡ŽTÌŸ™uPÕ€oÿäŒ»Ç}Ûñ`oÅ Í^¯±M TÀ9%ÎÛI\üžÛ@…qRÿòlõs3ß¿c‡¹ Vq›¾²Hpc¿é«qD€ÈäÏvö6m{óåÏ„†È•'÷SxDÑ,çÔsäakòËâå +ÅëÝ~AæI1çYs°!  É,þ×&8ÈÀç_öI q ó¤Kûø"@â¹—ÞŸ4€¡oŸòÀ:d kóû}·Ü ÿ»|ñ•s\Á¦8+Sà?ÛÿšÈØD3oóÿ“Rà{ßû§AÁI}-þžŠ¢ 4÷ÊDGáEÿYñˆBÎ`ÿý»þFÒ„Ÿv(íRB~‘ú?sþŒ)€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ  Ê   È  ìÇ  TÉ  àÆ  ˜Ç  @@Ç  (d@                                    €       È                               d@    8 @                     8               
+   @                                     T @ †          @                  "r       ÿÿ                                      @        ÿÿ                                vÅ’
+ìîìûb…~æûÊæÞâX—ß]*½ÃöÛµ	&6·¹ï0bàEß+ AÆc¾µ[Yr!ÀŸ¿}pŒ„¿^}ÒºL¿’©û:‰Muí¾nª°²:OÙ>,­!½úy°) P[ÚEÇStÀ4úî¿ùÆ£SÿI×÷JÂy1¿û#ÿ.Ïïæ!Ý~}õb0‹ uÈó¿ZÒ2¢Œ4úâ(Hý]†ÿ:M”&j3ëÏ0Q€4·Õÿ[ˆÓb¸§ØA¬‰4%oÐs 	á,AqÏØz€*=`ážÉýk`š-±³÷xbxøž½÷FI.=žþw©Â)¯D¢îbœLæØô¹Û™'à÷üû  ÏÏ¶¦ 5'ÝÞ¾oœ„Zº!ë_‚d’Fî£  ¦ò½»÷ö…`æ1gÿ—(0ò(©Êñ™Ðf¾s—=	z9ÿ¿å ÿ?‚°±ñä‰ç@¸@x;Ÿ!”ýÏë
+(WŸ¾³„;DHïû“þ„€±ÖÑo÷ Ðš®ö›óŸ á àÈ?Æ€©s¶÷ósÖM"+iÂ“Ó»éW ×ß¾ý
+0iLu[úÞÈPÁ™ÿ_ áúßçý€P˜÷?ÇW€©`pØ»? A$æEvWqÀŒŒ¶Ûÿûh ¦õúíDB	Bg_ž€b ¾²_?€ "ký+ÃXr ëî²®´h¶ã{‹”:. º*úˆá¦]ÏÚÍëa€\@ÍÂûî`¹&š[§÷EÐ@hñû$¡0ùò¿æîP'ëý{„Ô¨ŠßgS‘‘7ùûRñ¾õßJcz·þèQ ³|ú¿÷‚.ÄöÏö~¥6»ÎÖg`Q°¿½½ècxêïÛE  Ò^¬w ócÞ$Ï%Y‚gÛÿÜ/ƒ.8@D>¢ÿ\4‚ iÆ¤<)„¯_çZ&A\I­w­þ&‰¸
+þ×½½„‰©x|{·]´šôüvëØðŽ€§i×·½{po]û‚ ÄÿvßÕ@H¬»tÞãI—	ìuþ%@eÂ;¢§ïKüoç÷8 '9Û{Ó®²& µup„ Š‚\|ûc8’Àq6ûÅÿãP Pþ~ë=Gí5aÿ!Á€Eåýüî4CAvîîn
+JèÌáþþè"¶erýcÞp ©²if"ˆiÓ“÷¼Úf"Ü$ŸmÜC°CÙÿ¤–ÄÂ‘CßßüÀ±d½úïIŒÈŒRÑ/÷-–ÀJ©†²ï¥
+”!è6uÇB ¾=§\`%BdòU¥ûìX$ëßO{‰§bxÎþ7Hn3jžž •$íŠ{í½€Õ'Öï?03ó2ëú7ëˆ~ >÷ÿn‚&«à]k¿_€0ÞnhÜÍ»h½„h¨5j½ïÿ!ü*çòìgo$Ø»°+@ÃòÇTú1ÅÄºù^çãŠåœ{¾@0ñõµ|¶˜6«½Î‹·Xfž½­÷íX4åúþÅßq¡ ÉDí]ú}ÚH“ ]Óx³ÓˆÂÇ±è_¿ Ý]ü¼ô~L’{ÿüÓdÒA†Ýïà3Æž™Ù¡«ë;÷è1%”úïÇ4 Î«ÇþÔ	!ŒÓ}õt†\’óëfúE U ?ò;ÝÐ™øñ¾‡‹#çúx¿xõõd=™lûCùcUäCÅ	n¶°¿µ¶è[w“‘P×Ÿø{N
+‚ÝkwKªí ÿ¿~¯ò9’È¸^»—zÕb)ìõÖïAOÂØwóÂq¹š³[%Bn×û_ÒH¡Ý¿ÿ£Œ4_à·øçE…öw*ÏIˆ
+Iä6L¿†ï™ÃmÎC Þ¿ül˜¡¸û£Ûö %÷ÿëý×QêÇýU»­ºQO…ßòü²h$yþò¢f‚"%½…×ç EdãjwpácÕß_³g	Q®.ý÷æ ’ýÁ‡¶ L¡ÿ÷öë	®,;¹\ÑžQ?¡dš«øŸƒaY	ÿüêt>2—¼î¯ªDFhgï±9(”V^ôY
+‘ûò›û3J1S À5RY¦ÿäw%`6 ¿¾wÛ?(Šül«õ‰@]»‡z˜V§Áçt&®À	¡s™ÌùE"C*ÇÎäùŠ‘Ê¢ÝüÉÞMFüWf›Œg…]ó~U÷i‚ˆKº¥_Ð}"ÞÊŸì@F Ï|áýH Ò-‹z¡|  ‚RÖ] DxEÛ¾ïb	Ô‰=˜ÿôéäŠ*¿çpÁƒ£D{íË}ßd*¢²YzÅE ˜¿öÞóìBŸÜþ+mˆà±uäVT'\ü$Ã|{®@
+3%½C·®îš·±E| ŸZ‹ß}ˆŒ´(a)õáÂ ˆ&úô&’ÕXu—þµŒÁ[9“ßPr¸27~£Lt,ë¯Ë±.‹Hìÿnqž<@ýûßøI I–Ë¿ AÖ*öëÎÝ¡ë‚lç†Nû/X7"@ Û–¯~Žð œ,_u¿“ÒßÛÍÿ–4@*UÅÿ³§“–Fãý©
+gÈ7ª{w6…$}/¥ÿA	H:·Lv HÓ;ÿˆ°øÆ›±ÚÖøE)W¦a	ûÖ¾Ì8ÇØÀW+µ)”†zJüñ7ZcBìõ¯”Ì²Ý†6þo+F[»»¿·
+à84_šç}ŒŠU þÊÓ€Ÿ«ó+LÑgŒm2ñƒ 1¹¾ËòH§%ªoèßž ‚Bÿõ»‘ ôô‹>ÖÕ@ Ÿ ô»¥14­xrôå«±p°HIBÿ>zß¨¢@Aòœ¿zÐÁKÒÔË÷qRj€Û¨î,,õþÈm6Ô1íHbÀú´Mì+Q ç¯[qÑ€ ~®­/óÜÜ>s×|¦4¸ëÚ³Û¯î> ^ýàL,–6my×ýi¢´F7Zë&r8—ü<ÿ¸+s{öàÿX@2S¸Ÿú"€H÷t;#ÌC^–¯kHÇ k>vh| 1c¦×a !çáŠk*!iV]ŸU¢³âÏý6ªû1U™`iÉçë›Pˆ˜;ÞR~0H¹jö±ìQ4_÷þ 4Cwçwý0¯\ß}÷úÑ4ª’}e¶w1O'?M«ÿ·B–X©{}]çëºß‘¿ÏFL(b–ÿ»ÿgàñíÒ@"}ßqô&Mˆ^{ßú€CIvþÉ¼äÙ¬]îúñ	·¿òÜßYdˆ™ˆ»ž åñ¤(×}¨N P½g©ÉYêÀÒ¹·ò dôÉÙÛ„!ˆüßû}j£B±.Õæà1×ãî(€uñ¯…(Xuùù®³„JïÝ—ö	ÓdŠ¾.÷›f!EÛè÷¯@a¯òi²^}›Í$2q%Wå°°¬[wþI ƒ_6xÈýÛ;›…ŽsîÝÿh„‘¶­ö÷ Ä)vql¿.HPäÌ»Tˆ£ûOìì°<Xi[áÊ´„ÇøÈ}pL„$ÈçO:ã
+ 3{gl’T†¯~¨éàQèÞ?Ïù41Ëúwßl‡1›ê~@ˆ¡“wýŠc™÷À=Ðl~ë·éOªøª¶)ìh¿û€(H ]kk?5$Ûûüêdhù9ú 8“·ÑÚË¡!0ßÑ–   G{/¼AÓéƒí€vÃ F®ÿw=ÒVú;Ÿ„Ma¶ÿœÁWTU%¸vš)¤8`ÝÿŸÖ‡³.ÿãë‰	}³¾þ¼4FE]zëQ3 ›¯Qg¸E5vß9bƒ)Âè«þ—)Ù^Šþòÿ#	@{Êñ…iANvÿúé@ ëÛÊ3·QULRïÒItüöÜé`|¢Ê‰÷{i0…Í.wž¬ fÒCÕHAÍÛ¿|}¡Tãÿ¹Kˆ<R2îWøÞ	ºûÅïêè&²³OÍE|ý¹ÿÉ.# Z~seOl ‰×ÿtCV`!Ç¹`¡E‹¯3»Å«[ÞrýU Ï¾àZ Ã°Dc¹ìãÒ–~%ü¿þÐâKÈ—±=»„r¯ýŸ¬dR 'ÏÿõòDŽ‰t¹ìÝbŒH¿ÖîM{© !Ê-·: Àä±o•Q:wßtÿ AR&¾v½,_þj Fº÷ïïFQ©„÷ý—2€»ÒŒ¶#Œ¤ö.wŒ  	ÿ:ù²
+ °Àýµ{NCÞ]ªþ>wéH²#{°£š·1 ´×ÎJj´}¬ÿù¶¬,í€3© †'à+ÌÛ®‚!U}Û}?ƒœBþí÷‹ ®?öz@ŠìêÛ‹ƒ‚¥G|¿¿ž‚J¡GiÿÞ þˆ¯_ž‚ À¡çÙß ?*÷SïZDZj½Øò)F)ÿ^sÿ ÃÔ ºÃ«ßÁ™TÂ{ÿ$^i:ÒHY“<ÿŠ@dý¼ìÛ‚”ð´Ú/*’)Lý¹½Ð(èåÁ™Ð Ö˜[OÆ ã5½í#€ã'ÛþÝ¶„@,ÏÃ^‹È"†û©¾À¨Ö~÷~SHZŽrÿ¨«,H¼Õ-¢	öÙéüò…÷Õ%ø@ $·µ…y(ýZ¨èã;ïåÂ¡Ïb­b¾ñLb5ýb†cßÛÙfÔtû+~F¸™Ú-oøq§'÷<4¢¬uü·ÿ°ûóühYš['¯ûn{H»¾Cýj2¼®ïï÷&9Jfö}ý ãIeï—ºHDözÜ¿‡,}¾ßX d“Ðw½PÌâë¯Æú
+)BË÷û¯8J5"¶^
+ 2W Ê¿ â`Ž÷VW`þ¿Aê`´u·ÿû²„ÿ5·¾ºäª‡û§åk€@ùE{{f¢È”ý./ÿ`¤€é¸Àjï<I{BžKúáµÈŸŽIþÞÝ—
+ç~×qÞ"ß÷öfšo bØ®×ß!átŒ{ÎËH»¾Öt nÃ÷¼ÀXÛ÷y}Ýw6¿ãH#‰UþÝ7—P†œ1î±~…Tþ·›‡ŽTÌŸ™uPÕ€oÿäŒ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ€ÿ  "Á  "Æ  "Ë  "Ð  "Õ  "Ú  "ß  "ä  "é  "î  "ó  "ø  "ý  "  "  "  "  "  "  "   "%  "*  "/  "4  "9  ">  "C  "H  "M  "R  "W  "\  "a  "f  "k  "p  "u  "z  "  "„  "‰  "Ž  "“  "˜  "  "¢  "§  "¬  "±  "¶  "»  "À  "Å  "Ê  "Ï  "Ô  "Ù  "Þ  "ã  "è  "í    Ü     Ê   È  ìÇ  TÉ  àÆ  ˜Ç  @@Ç  (d@                                    €       È·úAk¢l}úîÊ­EùÿvþD”o‚Ö¯Þ+DsÇï¿!ð5ÿ»ÕŒ^¸Ùuüá4—,îº›m`´ òOÝ–Þ’5‚òÚ7x.Â¯ýü!gBÿiÙã/èy&`m'ú5"P#ªç¤@G°ÜÜ–œn[†öùÔ^…
+¾ÇGM&¢ ÿkæ%Ã&<õT»Ë$ Œ–|âƒ"!•×šâ¨$rvw»~„p²ÿïŠ«æJ€ŠhÕæÏG®ÄfËÿÅÝÆ4‚€xãË¾'¤ŒŽmïýñ• çy	©-„ w¯~ê¤:lu}óïˆ"{$W–´Œ U´ëD2¿©„•”ußvÅ’
+ìîìûb…~æûÊæÞâX—ß]*½ÃöÛµ	&6·¹ï0bàEß+ AÆc¾µ[Yr!ÀŸ¿}pŒ„¿^}ÒºL¿’©û:‰Muí¾nªÍùR4ÉPùNý’# L¸ý™(0ÿ˜#ûÀ¡˜î<ò­gõ
+IÛŽëe´æ·^ÕÓ#!c-jÛ®EñM¦«ü¾ºÔ„¨øþD—EU¨ØºùpQ!¬žÔ|éˆ"ÞÛI.´6ÀÂ í¡=oˆH "wÚ÷ƒa Gî{®ÁP^øÉßÿè£ˆÃuîûTšOÏOOk“9±Z¸·€ZˆþIêMŠHA_ó•¾(B×Õ;ýáH@_öf¶þ³Pkü·Ùžü„Ÿ<$w¦v*( N^3âÎ
+A°ÈÿçûÂaú¿~f¬ðN/õDD”ûßŸ‰ È@ç[ìûHTB(_Óÿ?‚°±ñä‰ç@¸@x;Ÿ!”ýÏë
+(WŸ¾³„;DHïû“þ„€±ÖÑo÷ Ðš®ö›óŸ á àÈ?Æ€©s¶÷ósÖM"+iÂ“Ó»éW ×ß¾ý
+0
