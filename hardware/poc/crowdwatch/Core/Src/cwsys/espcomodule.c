@@ -50,8 +50,6 @@ int img_buffer_send(uint8_t *buff, int len, int *ord)
 
 	uint32_t t = HAL_GetTick();
 
-	info("Transmiting to ESP");
-
 
 	uint8_t *end = buff + len;
 	uint8_t *cur = buff;
