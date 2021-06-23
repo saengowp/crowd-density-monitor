@@ -44,7 +44,7 @@ Given the design requirements above. We designed the device's functional compone
 
 # Device Description
 
-![Image of the hardware](hardware.jpg)
+![Image of the hardware](hardware/hardware.jpg)
 
 ## Functional Description
 
